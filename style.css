@@ -1,0 +1,9 @@
+#output
+{
+    background: cornflowerblue;
+    border-radius: 10px;
+    border-top: 10px solid antiquewhite;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
